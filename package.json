@@ -1,0 +1,34 @@
+{
+  "name": "base-APis",
+  "version": "1.0.0",
+  "description": "Skizo Tech APis",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+<repository URL>"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "swager"
+  ],
+  "author": "xznsenpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "<bugs URL>"
+  },
+  "homepage": "<homepage URL>",
+  "dependencies": {
+    "bimg": "^0.1.5",
+    "bing-nodejs": "^1.0.3",
+    "express": "^4.18.2",
+    "insta-fetcher": "^1.3.27",
+    "morgan": "^1.10.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
