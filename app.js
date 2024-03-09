@@ -15,6 +15,6 @@ sh.use('/api', api);
 sh.listen(8000, async () => {
   console.log({
     status: 'Active',
-    message: 'powered by https://github.com/xznsenpai'
+    message: 'powered by https://github.com/pitucode'
   })
 });
